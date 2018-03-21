@@ -1,0 +1,14 @@
+STRINGTABLE Osolidchamfer
+{
+	Osolidchamfer "SolidChamfer";
+
+	SOLIDCHAMFER_RADIUS		"Radius";
+	SOLIDCHAMFER_SUBDIVISION	"Subdivision";
+	SOLIDCHAMFER_EDGESELECTION "Process";
+	SOLIDCHAMFER_TAGLINK		"Selection Tag";
+	SC_ALL				"All edges";
+	SC_PHONG				"Phong edges";
+	SC_LIVE				"Edges from live selection";
+	SC_TAG				"Edges from selection tag";
+}
+
